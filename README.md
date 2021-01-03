@@ -2,9 +2,9 @@
 
 [![Kevin Borrill][logo-url]][url]
 
-🌍 Web Team Lead, coding the world a better place at [3 SIDED CUBE]([cube-url]) <br />
+🌍 Web Team Lead, coding the world a better place at [3 SIDED CUBE][cube-url] <br />
 👨‍💻 Web, JavaScript, Alexa, Node, AWS <br />
-📸 [Photographer]([unsplash-url]) <br />
+📸 [Photographer][unsplash-url] <br />
 👔 Jazzy Shirts
 
 </div>
