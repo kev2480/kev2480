@@ -7,7 +7,7 @@
 📸 [Photographer][unsplash-url] <br />
 👔 Jazzy Shirts
 
-![A Panda](https://pandaaas.herokuapp.com/800/150 "Pandas are cool")
+![Stats](https://github-readme-stats.vercel.app/api?username=kev2480&show_icons=true&theme=radical)
 
 </div>
 
